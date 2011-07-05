@@ -1,0 +1,7 @@
+content   FastCC                chrome/content/
+skin      FastCC   classic/1.0   chrome/skin/
+locale    FastCC   en-US         chrome/locale/en-US/
+locale    FastCC   it-IT         chrome/locale/it-IT/
+
+overlay chrome://messenger/content/messengercompose/messengercompose.xul chrome://FastCC/content/overlay.xul
+
