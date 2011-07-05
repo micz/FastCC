@@ -1,7 +1,5 @@
 <?xml version="1.0"?>
-
 <?xml-stylesheet type="text/css" href="chrome://global/skin/" ?>
-
 <!DOCTYPE overlay SYSTEM "chrome://FastCC/locale/overlay.dtd">
 
 <overlay id="FastCC-browser-overlay"

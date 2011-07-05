@@ -11,8 +11,6 @@ it.micz.FastCC = {
 
 
 	keyHandler : function(event) {
-//		if (event.target.tagName == "textbox")
-//			return;
 		if (event.altKey && event.ctrlKey && (event.charCode == 99 /*"c"*/)) {
 			//alert('pressed on id:'+event.target.id+' tagName: '+event.target.tagName);
 			if(it.micz.FastCC.checkValidAction(event.target.id)){
