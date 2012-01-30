@@ -11,7 +11,7 @@ it.micz.FastCC = {
 
 
 	keyHandler : function(event) {
-		if (event.altKey && event.ctrlKey && (event.charCode == 99 /*"c"*/)) {
+		if (event.altKey && event.ctrlKey && ((event.charCode == 99 /*"c"*/)||(event.charCode == 67 /*"C"*/))) {
 			//alert('pressed on id:'+event.target.id+' tagName: '+event.target.tagName);
 			if(it.micz.FastCC.checkValidAction(event.target.id)){
 				//alert('target element: '+it.micz.FastCC.getTargetElement(event.target.id).id);
