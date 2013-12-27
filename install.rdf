@@ -9,7 +9,7 @@
     <em:contributor></em:contributor>
     <em:localized>
       <Description>
-        <em:locale>it-IT</em:locale>
+        <em:locale>it</em:locale>
         <em:name>FastCC</em:name>
         <em:description>Un'estensione di Thunderbird che ti fa passare da a: a cc: con la combinazione di tasti ALT+CTRL+C!</em:description>
       </Description>
