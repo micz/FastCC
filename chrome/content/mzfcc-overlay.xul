@@ -6,7 +6,7 @@
  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
 <script type="application/x-javascript"
-  src="chrome://FastCC/content/overlay.js" />
+  src="chrome://FastCC/content/mzfcc-overlay.js" />
 
 <stringbundleset id="stringbundleset">
   <stringbundle id="FastCC-string-bundle"
