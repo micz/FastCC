@@ -1,11 +1,7 @@
-if(!it) var it={};
-if(!it.micz) it.micz={};
-if(!it.micz.FastCC) it.micz.FastCC={};
-
-it.micz.FastCC = {
+var miczFastCC = {
 	onLoad: function() {
 		// initialization code
-		window.addEventListener("keypress",it.micz.FastCC.keyHandler, false);
+		window.addEventListener("keypress",miczFastCC.keyHandler, false);
 		this.initialized = true;
 	},
 
@@ -13,9 +9,9 @@ it.micz.FastCC = {
 	keyHandler : function(event) {
 		if (event.altKey && event.ctrlKey && ((event.charCode == 99 /*"c"*/)||(event.charCode == 67 /*"C"*/))) {
 			//alert('pressed on id:'+event.target.id+' tagName: '+event.target.tagName);
-			if(it.micz.FastCC.checkValidAction(event.target.id)){
-				//alert('target element: '+it.micz.FastCC.getTargetElement(event.target.id).id);
-				it.micz.FastCC.setValue(it.micz.FastCC.getTargetElement(event.target.id));
+			if(miczFastCC.checkValidAction(event.target.id)){
+				//alert('target element: '+miczFastCC.getTargetElement(event.target.id).id);
+				miczFastCC.setValue(miczFastCC.getTargetElement(event.target.id));
 			}
 		}
 		return;
@@ -41,4 +37,4 @@ it.micz.FastCC = {
 	},
 };
 
-window.addEventListener("load", it.micz.FastCC.onLoad, false);
+window.addEventListener("load", miczFastCC.onLoad, false);
