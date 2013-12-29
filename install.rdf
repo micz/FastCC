@@ -25,6 +25,14 @@
         <em:contributor></em:contributor>
         <em:translator>Goofy</em:translator>
       </Description>
+      <Description>
+        <em:locale>zh-CN</em:locale>
+        <em:name>FastCC</em:name>
+        <em:description>Thunderbird 扩展，让您可用 ALT+CTRL+C 快捷键切换到抄送。</em:description>
+        <em:creator>Mic (m@micz.it)</em:creator>
+        <em:contributor></em:contributor>
+        <em:translator>yfdyh000</em:translator>
+      </Description>
     </em:localized>
     <em:targetApplication>
       <Description>
