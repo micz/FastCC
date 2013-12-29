@@ -17,6 +17,14 @@
         <em:contributor></em:contributor>
         <em:translator>Mic (m@micz.it)</em:translator>
       </Description>
+      <Description>
+        <em:locale>fr</em:locale>
+        <em:name>FastCC</em:name>
+        <em:description>Une extension pour Thunderbird qui vous permet de basculer en « Copie à » avec le raccourci-clavier Alt+Ctrl+C !</em:description>
+        <em:creator>Mic (m@micz.it)</em:creator>
+        <em:contributor></em:contributor>
+        <em:translator>Goofy</em:translator>
+      </Description>
     </em:localized>
     <em:targetApplication>
       <Description>
