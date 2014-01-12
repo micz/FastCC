@@ -3,7 +3,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>fastcc@micz.it</em:id>
     <em:type>2</em:type>
-    <em:version>1.1beta</em:version>
+    <em:version>1.1alpha</em:version>
     <em:name>FastCC</em:name>
     <em:description>A Thunderbird extension that let you switch to cc: with the ALT+CTRL+C keyboard shortcut!</em:description>
     <em:creator>Mic (m@micz.it)</em:creator>
