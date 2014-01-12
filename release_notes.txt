@@ -1,0 +1,12 @@
+-= FastCC Thunderbird Addon Release Notes =-
+
+==========
+Version 1.1 - ??/??/2014
+- 
+==========
+Version 1.0.1 - 05/02/2012
+- Fixed the use of the capitol C, see https://github.com/micz/FastCC/issues/1.
+==========
+Version 1.0 - 05/07/2011
+- First release.
+==========
