@@ -1,5 +1,9 @@
 content   FastCC                chrome/content/
 locale    FastCC   en-US        chrome/locale/en-US/
 locale    FastCC   it           chrome/locale/it/
+locale    FastCC   de           chrome/locale/de/
+locale    FastCC   fr           chrome/locale/fr/
+locale    FastCC   pt-BR        chrome/locale/pt-BR/
+locale    FastCC   zh-CN        chrome/locale/zh-CN/
 
 overlay chrome://messenger/content/messengercompose/messengercompose.xul chrome://FastCC/content/mzfcc-overlay.xul
